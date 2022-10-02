@@ -1,0 +1,12 @@
+C:\Users\Keyslam\Documents\Expland\src\Expland.Transport\bin\Debug\net6.0\Explant.Transport.deps.json
+C:\Users\Keyslam\Documents\Expland\src\Expland.Transport\bin\Debug\net6.0\Explant.Transport.dll
+C:\Users\Keyslam\Documents\Expland\src\Expland.Transport\bin\Debug\net6.0\Explant.Transport.pdb
+C:\Users\Keyslam\Documents\Expland\src\Expland.Transport\obj\Debug\net6.0\Expland.Transport.csproj.AssemblyReference.cache
+C:\Users\Keyslam\Documents\Expland\src\Expland.Transport\obj\Debug\net6.0\Expland.Transport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keyslam\Documents\Expland\src\Expland.Transport\obj\Debug\net6.0\Expland.Transport.AssemblyInfoInputs.cache
+C:\Users\Keyslam\Documents\Expland\src\Expland.Transport\obj\Debug\net6.0\Expland.Transport.AssemblyInfo.cs
+C:\Users\Keyslam\Documents\Expland\src\Expland.Transport\obj\Debug\net6.0\Expland.Transport.csproj.CoreCompileInputs.cache
+C:\Users\Keyslam\Documents\Expland\src\Expland.Transport\obj\Debug\net6.0\Explant.Transport.dll
+C:\Users\Keyslam\Documents\Expland\src\Expland.Transport\obj\Debug\net6.0\refint\Explant.Transport.dll
+C:\Users\Keyslam\Documents\Expland\src\Expland.Transport\obj\Debug\net6.0\Explant.Transport.pdb
+C:\Users\Keyslam\Documents\Expland\src\Expland.Transport\obj\Debug\net6.0\ref\Explant.Transport.dll

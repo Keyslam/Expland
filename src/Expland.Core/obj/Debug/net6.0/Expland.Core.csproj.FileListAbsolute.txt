@@ -1,0 +1,12 @@
+C:\Users\Keyslam\Documents\Expland\src\Expland.Core\bin\Debug\net6.0\Explant.Core.deps.json
+C:\Users\Keyslam\Documents\Expland\src\Expland.Core\bin\Debug\net6.0\Explant.Core.dll
+C:\Users\Keyslam\Documents\Expland\src\Expland.Core\bin\Debug\net6.0\Explant.Core.pdb
+C:\Users\Keyslam\Documents\Expland\src\Expland.Core\obj\Debug\net6.0\Expland.Core.csproj.AssemblyReference.cache
+C:\Users\Keyslam\Documents\Expland\src\Expland.Core\obj\Debug\net6.0\Expland.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keyslam\Documents\Expland\src\Expland.Core\obj\Debug\net6.0\Expland.Core.AssemblyInfoInputs.cache
+C:\Users\Keyslam\Documents\Expland\src\Expland.Core\obj\Debug\net6.0\Expland.Core.AssemblyInfo.cs
+C:\Users\Keyslam\Documents\Expland\src\Expland.Core\obj\Debug\net6.0\Expland.Core.csproj.CoreCompileInputs.cache
+C:\Users\Keyslam\Documents\Expland\src\Expland.Core\obj\Debug\net6.0\Explant.Core.dll
+C:\Users\Keyslam\Documents\Expland\src\Expland.Core\obj\Debug\net6.0\refint\Explant.Core.dll
+C:\Users\Keyslam\Documents\Expland\src\Expland.Core\obj\Debug\net6.0\Explant.Core.pdb
+C:\Users\Keyslam\Documents\Expland\src\Expland.Core\obj\Debug\net6.0\ref\Explant.Core.dll

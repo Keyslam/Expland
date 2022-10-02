@@ -1,0 +1,13 @@
+{
+    "[csharp]": {
+        "editor.codeLens": false,
+    },
+    "files.exclude": {
+        "**/bin/": true,
+        "**/obj/": true
+    },
+    "workbench.tree.indent": 20,
+    "workbench.colorCustomizations": {
+        "tree.indentGuidesStroke": "#EEE"
+    }
+}

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>Explant.Game</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Silk.NET" Version="2.16.0" />
+    <PackageReference Include="Silk.NET.OpenGL.Extensions.ImGui" Version="2.16.0" />
+    <PackageReference Include="StreamJsonRpc" Version="2.12.27" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Expland.ECS\Expland.ECS.csproj" />
+    <ProjectReference Include="..\Expland.Transport\Expland.Transport.csproj" />
+    <ProjectReference Include="..\Expland.Logging\Expland.Logging.csproj" />
+  </ItemGroup>
+</Project>

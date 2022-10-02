@@ -1,0 +1,301 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Game\\Game.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Keyslam\\Documents\\Expland\\src\\ECS\\ECS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\ECS\\ECS.csproj",
+        "projectName": "Explant.ECS.dll",
+        "projectPath": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\ECS\\ECS.csproj",
+        "packagesPath": "C:\\Users\\Keyslam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\ECS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Keyslam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Game\\Game.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Game\\Game.csproj",
+        "projectName": "Explant.Game",
+        "projectPath": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Game\\Game.csproj",
+        "packagesPath": "C:\\Users\\Keyslam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Game\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Keyslam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Keyslam\\Documents\\Expland\\src\\ECS\\ECS.csproj": {
+                "projectPath": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\ECS\\ECS.csproj"
+              },
+              "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Logging\\Logging.csproj": {
+                "projectPath": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Logging\\Logging.csproj"
+              },
+              "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Transport\\Transport.csproj": {
+                "projectPath": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Transport\\Transport.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Silk.NET": {
+              "target": "Package",
+              "version": "[2.16.0, )"
+            },
+            "Silk.NET.OpenGL.Extensions.ImGui": {
+              "target": "Package",
+              "version": "[2.16.0, )"
+            },
+            "StreamJsonRpc": {
+              "target": "Package",
+              "version": "[2.12.27, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Logging\\Logging.Common\\Logging.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Logging\\Logging.Common\\Logging.Common.csproj",
+        "projectName": "Explant.Logging.Common",
+        "projectPath": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Logging\\Logging.Common\\Logging.Common.csproj",
+        "packagesPath": "C:\\Users\\Keyslam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Logging\\Logging.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Keyslam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Logging\\Logging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Logging\\Logging.csproj",
+        "projectName": "Explant.Logging",
+        "projectPath": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Logging\\Logging.csproj",
+        "packagesPath": "C:\\Users\\Keyslam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Logging\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Keyslam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Logging\\Logging.Common\\Logging.Common.csproj": {
+                "projectPath": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Logging\\Logging.Common\\Logging.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Transport\\Transport.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Transport\\Transport.csproj",
+        "projectName": "Explant.Transport",
+        "projectPath": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Transport\\Transport.csproj",
+        "packagesPath": "C:\\Users\\Keyslam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Keyslam\\Documents\\Expland\\src\\Transport\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Keyslam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

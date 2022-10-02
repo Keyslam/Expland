@@ -1,0 +1,12 @@
+C:\Users\Keyslam\Documents\Expland\src\Expland.Logging\bin\Debug\net6.0\Explant.Logging.deps.json
+C:\Users\Keyslam\Documents\Expland\src\Expland.Logging\bin\Debug\net6.0\Explant.Logging.dll
+C:\Users\Keyslam\Documents\Expland\src\Expland.Logging\bin\Debug\net6.0\Explant.Logging.pdb
+C:\Users\Keyslam\Documents\Expland\src\Expland.Logging\obj\Debug\net6.0\Expland.Logging.csproj.AssemblyReference.cache
+C:\Users\Keyslam\Documents\Expland\src\Expland.Logging\obj\Debug\net6.0\Expland.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keyslam\Documents\Expland\src\Expland.Logging\obj\Debug\net6.0\Expland.Logging.AssemblyInfoInputs.cache
+C:\Users\Keyslam\Documents\Expland\src\Expland.Logging\obj\Debug\net6.0\Expland.Logging.AssemblyInfo.cs
+C:\Users\Keyslam\Documents\Expland\src\Expland.Logging\obj\Debug\net6.0\Expland.Logging.csproj.CoreCompileInputs.cache
+C:\Users\Keyslam\Documents\Expland\src\Expland.Logging\obj\Debug\net6.0\Explant.Logging.dll
+C:\Users\Keyslam\Documents\Expland\src\Expland.Logging\obj\Debug\net6.0\refint\Explant.Logging.dll
+C:\Users\Keyslam\Documents\Expland\src\Expland.Logging\obj\Debug\net6.0\Explant.Logging.pdb
+C:\Users\Keyslam\Documents\Expland\src\Expland.Logging\obj\Debug\net6.0\ref\Explant.Logging.dll
